@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Floor
+  - Coin
+  - Barrel
+  - Spikes
   layers:
   - Default
   - TransparentFX
